@@ -1,0 +1,24 @@
+---
+title: "Integrating R Studio with Github"
+output: html_document
+---
+
+##Assumed:
+
+You have git installed on PC
+
+You have RStudio and R installed on PC
+
+Have a github account with a shell(empty) repository created
+
+
+##Integrating Rstudio with Gitub:
+
+Go to Tools-> Global Options -> Git/SVN
+
+Check the "Enable Version control for RStudio projects"
+
+Add appropriate path for the git executable in the text box 
+
+
+For more help on this i used https://datasciencespecialization.github.io/toolbox/
